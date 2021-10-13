@@ -10,11 +10,11 @@ Built on top of an idea within "The Odin Project", I made up an electricity comp
 ## 🖼️ Image Sources
 
 
-['Recyceln' Vektor created by rawpixel.com - de.freepik.com](https://de.freepik.com/vektoren/recyceln)
-['Technologie' Vektor created by sentavio - de.freepik.com](https://de.freepik.com/vektoren/technologie)
-[Photo by Felix Mittermeier from Pexels](https://www.pexels.com/photo/aerial-photo-of-castle-beside-forest-2832061/)
-[Photo by RF._.studio from Pexels](https://www.pexels.com/photo/happy-young-black-woman-holding-basket-with-lettuce-on-shoulder-and-cluster-of-yellow-dates-in-grocery-store-on-gray-background-4177755/)
-['Menschen' Vektor created by pch.vector - de.freepik.com](https://de.freepik.com/vektoren/menschen)
+- ['Recyceln' Vektor created by rawpixel.com - de.freepik.com](https://de.freepik.com/vektoren/recyceln)
+- ['Technologie' Vektor created by sentavio - de.freepik.com](https://de.freepik.com/vektoren/technologie)
+- [Photo by Felix Mittermeier from Pexels](https://www.pexels.com/photo/aerial-photo-of-castle-beside-forest-2832061/)
+- [Photo by RF._.studio from Pexels](https://www.pexels.com/photo/happy-young-black-woman-holding-basket-with-lettuce-on-shoulder-and-cluster-of-yellow-dates-in-grocery-store-on-gray-background-4177755/)
+- ['Menschen' Vektor created by pch.vector - de.freepik.com](https://de.freepik.com/vektoren/menschen)
 
 
 
