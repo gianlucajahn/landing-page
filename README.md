@@ -5,7 +5,7 @@ Built on top of an idea within "The Odin Project", I made up an electricity comp
 
 > So here we are.
 
-### You can view the landing page live soon, I'll put the link here as soon as it is uploaded to it's own GitHub page! 🔗
+#### You can view the landing page live soon, I'll put the link here as soon as it is uploaded to it's own GitHub page! 🔗
 
 ## 🖼️ Image Sources
 
