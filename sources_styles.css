@@ -1,0 +1,72 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 48px;
+    align-items: center;
+}
+
+.picture {
+    display: flex;
+    height: 450px;
+    width: 642px;
+}
+
+.header {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+a {
+    text-decoration: none;
+}
+
+.source {
+    color: green;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.list {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* End of Source Page */
+/* Beginning of Footer */
+
+.footer {
+    display: flex;
+}
+
+.button {
+    display: flex;
+    margin-top: 32px;
+    transition: all .2s ease-in-out;
+    color: green;
+    font-weight: 700;
+}
+
+.button:hover {
+    transform: scale(1.1);
+}
+
+/* End of Footer */
+/* End of Document */
+
+/* Thank you for inspecting my work! */
