@@ -5,8 +5,7 @@ Built on top of an idea within "The Odin Project"[^1], I made up an electricity 
 
 > So here we are.
 
-You can view the landing page live soon!
-I'll put the link here as soon as it is uploaded to it's own GitHub page!
+You can view the landing page by clicking [HERE](https://gianlucajahn.github.io/landing-page/)
 
 ## 🔎 A Preview
 
